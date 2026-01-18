@@ -9,3 +9,5 @@ button.when_pressed = led.on
 button.when_released = led.off
 
 pause()
+
+# 26년 1월 18일 테스트
